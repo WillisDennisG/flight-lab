@@ -42,8 +42,7 @@ portable file.
 
 ## Status
 
-Private working sandbox — not yet polished for outside use. Started from a
-first draft and reworked since: added landing gear, a compass, a throttle
-gauge, horizon scenery, runway markings, synthesised engine sound, and a
-start screen (also needed to unlock audio, since browsers block sound until
-a user gesture).
+Still evolving. Started from a first draft and reworked since: added
+landing gear, a compass, a throttle gauge, horizon scenery, runway
+markings, synthesised engine sound, and a start screen (also needed to
+unlock audio, since browsers block sound until a user gesture).
